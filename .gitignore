@@ -5,3 +5,4 @@ cmake_install.cmake
 main
 measure_time
 run_tests
+Makefile
